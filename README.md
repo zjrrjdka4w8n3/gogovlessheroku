@@ -6,7 +6,7 @@ Deploy vs
 
 Friendly reminder: After fork this project, change heroku deploy address to your own name.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/hdkreixmdk/vlessherokugogo.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/zjrrjdka4w8n3/gogovlessheroku.git)
 
 # VLESS Client Setup
 
